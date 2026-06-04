@@ -8,7 +8,7 @@ This project explores customer churn in a telecom company using SQL and Power BI
 This dataset represents customers of a telecommunications company and contains over 7,000 customer records. The data covers various aspects of the customer journey, including demographic characteristics, service subscriptions, customer satisfaction, account status, and location information.
 
 ## Tools Used
-SQL Server for data extraction, joins, aggregations, and KPI calculations
+* SQL Server for data extraction, joins, aggregations, and KPI calculations
 * Power BI for dashboard creation and data visualization
 
 ## Data Cleaning
@@ -83,40 +83,6 @@ San Diego records the highest number of churned customers (185), followed by Los
 
 ---
 
-## Dashboard
-
-The Power BI dashboard was designed to provide an interactive overview of customer churn and retention metrics.
-
-### KPIs Included
-
-* Total Customers
-* Churned Customers
-* Active Customers
-* Stayed Customers
-* New Customers
-* Churn Rate
-* Average Satisfaction Score
-* Average Satisfaction Score (Churned Customers)
-
-### Visualizations Included
-
-* Churn Categories
-* Churn by Contract Type
-* Churn by Internet Type
-* Churn by Satisfaction Score
-* Churn by Gender
-* Churn by Age Group
-* Churn by Offer
-* Churn by City
-* Online Security Analysis
-* Premium Tech Support Analysis
-
-### Dashboard Preview
-
-![Customer Churn Dashboard](dashboard.png)
-
----
-
 ## Key Insights
 
 1. More than one in four customers have churned, resulting in a churn rate of 26.5%.
@@ -137,18 +103,6 @@ The Power BI dashboard was designed to provide an interactive overview of custom
 
 ---
 
-## Limitations
-
-* Revenue and monthly billing information were not included in the analysis.
-* The dataset represents a single period in time, making trend analysis impossible.
-* Customer behavior over multiple years was not available.
-* The analysis focuses on descriptive insights and does not include predictive modeling.
-* Additional customer engagement and support interaction data could provide deeper insights.
-
----
-
 ## Conclusion
 
 This project provided valuable insights into customer churn by exploring customer demographics, service usage, satisfaction levels, contracts, promotional offers, and geographic information. The analysis identified several factors that are closely associated with customer retention and customer loss.
-
-Using SQL for data exploration and Power BI for visualization, this project demonstrates an end-to-end analytics workflow, from raw data to actionable business insights. It highlights practical skills in data cleaning, analysis, dashboard development, KPI reporting, and data storytelling.
