@@ -8,8 +8,7 @@ This project explores customer churn in a telecom company using SQL and Power BI
 This dataset represents customers of a telecommunications company and contains over 7,000 customer records. The data covers various aspects of the customer journey, including demographic characteristics, service subscriptions, customer satisfaction, account status, and location information.
 
 ## Tools Used
-
-* SQL Server (T-SQL) for data extraction, joins, aggregations, and KPI calculations
+SQL Server for data extraction, joins, aggregations, and KPI calculations
 * Power BI for dashboard creation and data visualization
 
 ## Data Cleaning
