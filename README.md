@@ -1,4 +1,4 @@
-Customer Churn Analysis
+## Customer Churn Analysis
 
 ![Dashboard](CustomersChurn.png)
 
@@ -6,7 +6,6 @@ Customer Churn Analysis
 This project explores customer churn in a telecom company using SQL and Power BI. The goal was to understand customer behavior, identify the main reasons customers leave, and discover which factors are most related to churn. The analysis focuses on customer demographics, service usage, contract types, satisfaction levels, promotional offers, and location data. This project was created as part of my Data Analyst portfolio to demonstrate skills in data exploration, SQL querying, dashboard development, and business insight generation.
 
 ## Dataset Description
-
 This dataset represents customers of a telecommunications company and contains over 7,000 customer records. The data covers various aspects of the customer journey, including demographic characteristics, service subscriptions, customer satisfaction, account status, and location information.
 
 ## Tools Used
