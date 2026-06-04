@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+Customer Churn Analysis
 ![Dashboard](CustomersChurn.png)
 
 ## Project Objective
