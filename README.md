@@ -1,5 +1,5 @@
 ## Customer Churn Analysis
-![Dashboard](CustomersChurn.png)
+![Dashboard](Customers.png)
 
 ## Project Objective
 This project explores customer churn in a telecom company using SQL and Power BI. The goal was to understand customer behavior, identify the main reasons customers leave, and discover which factors are most related to churn. The analysis focuses on customer demographics, service usage, contract types, satisfaction levels, promotional offers, and location data. This project was created as part of my Data Analyst portfolio to demonstrate skills in data exploration, SQL querying, dashboard development, and business insight generation.
